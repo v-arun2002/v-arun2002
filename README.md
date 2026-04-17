@@ -19,9 +19,9 @@
 
 ## About Me
 
-I build end-to-end AI and data systems — from raw data pipelines to deployed products. My work spans **RAG systems and LLM applications**, **deep learning and computer vision**, **NLP and transformers**, **BI dashboards and analytics**, and **geospatial data science**. I care about measurable results — every project I build gets evaluated, not just demoed.
+I build end-to-end AI and data systems — from raw data pipelines to deployed products. My work spans **RAG systems and LLM applications**, **deep learning and computer vision**, **NLP and transformers**, **BI dashboards and analytics**, and **data science**. I care about measurable results — every project I build gets evaluated, not just demoed.
 
-Previously a **Data Analyst at Cholamandalam Investment & Finance** and **Data Analyst Intern at Pon Pure Chemicals**.
+Previously a **Data Analyst Intern at Cholamandalam Investment & Finance** and **Data Analyst Intern at Pon Pure Chemicals**.
 
 ---
 
@@ -278,7 +278,7 @@ Previously a **Data Analyst at Cholamandalam Investment & Finance** and **Data A
 **Data Analyst Intern** · Pon Pure Chemicals
 Data analysis, ML model development for chemical process optimization and predictive analytics pipelines
 
-**Data Analyst** · Cholamandalam Investment and Finance
+**Data Analyst Intern** · Cholamandalam Investment and Finance
 Financial data analysis, BI reporting, and lending portfolio analytics
 
 ---
@@ -287,15 +287,6 @@ Financial data analysis, BI reporting, and lending portfolio analytics
 
 **MS Data Analytics Engineering** · Northeastern University · GPA 3.8 · May 2026
 *Applied Generative AI · Deep Learning for AI · Applied NLP · Data Management · Computation and Visualization*
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=v-arun2002&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v-arun2002&layout=compact&hide_border=true&theme=default" height="150"/>
-</p>
 
 ---
 
